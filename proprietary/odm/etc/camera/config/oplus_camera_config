@@ -109,7 +109,7 @@
   "VendorTag": "com.oplus.feature.video.live.hdr.support",
   "Type": "Byte",
   "Count": "1",
-  "Value": "1"
+  "Value": "0"
 },
 
 {
@@ -123,7 +123,7 @@
   "VendorTag": "com.oplus.feature.video.live.hdr.except.8k.support",
   "Type": "Byte",
   "Count": "1",
-  "Value": "1"
+  "Value": "0"
 },
 
 {
@@ -1765,6 +1765,18 @@
 },
 {
   "VendorTag": "com.oplus.feature.video.front.4k.60fps.support",
+  "Type": "Byte",
+  "Count": "1",
+  "Value": "1"
+},
+{
+  "VendorTag": "com.oplus.feature.video.hlg10.support",
+  "Type": "Byte",
+  "Count": "1",
+  "Value": "1"
+},
+{
+  "VendorTag": "com.oplus.feature.video.10bit.support",
   "Type": "Byte",
   "Count": "1",
   "Value": "1"
