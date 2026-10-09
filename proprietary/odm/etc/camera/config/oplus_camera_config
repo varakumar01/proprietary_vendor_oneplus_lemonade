@@ -1744,5 +1744,23 @@
   "Type": "Byte",
   "Count": "1",
   "Value": "1"
+},
+{
+  "VendorTag": "com.oplus.feature.video.1080p.120fps.support",
+  "Type": "Byte",
+  "Count": "1",
+  "Value": "1"
+},
+{
+  "VendorTag": "com.oplus.feature.video.1080p.120fps.zoom.range",
+  "Type": "Float",
+  "Count": "2",
+  "Value": "1,10"
+},
+{
+  "VendorTag": "com.oplus.feature.video.1080p120fps.max.zoom.list",
+  "Type": "Float",
+  "Count": "3",
+  "Value": "1,2.9,10"
 }
 ]
